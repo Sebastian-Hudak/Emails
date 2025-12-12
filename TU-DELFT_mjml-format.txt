@@ -1,0 +1,58 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0">
+      <mj-column width="100%">
+
+        <!-- Name -->
+
+        <mj-text font-size="20px" font-family="Arial, sans-serif" font-weight="bold" >
+          Bsc. Sebastián Hudák
+        </mj-text>
+
+        <!-- Title -->
+        <mj-text font-size="15px" font-family="Arial, sans-serif" color="#000000">
+          Aerospace Engineering Student (Pre-Master)
+        </mj-text>
+
+        <!-- TU Delft Logo -->
+
+        <mj-image align="left" width="400px" padding="0px 0px" alt="TU Delft logo" src="https://raw.githubusercontent.com/Sebastian-Hudak/Emails/refs/heads/main/Wit_LR-01.png" />
+
+        <!-- Contact Info -->
+
+        <mj-text font-size="14px" font-family="Arial, sans-serif" color="#000000" line-height="1.5">
+          <strong>Address:</strong> Van Swietenstraat 24B, 2518SJ, Den Haag<br />
+
+          <strong>Personal:</strong>
+          <a href="mailto:sh.sebastianhudak@gmail.com" style="color:#1a73e8; text-decoration:none;">
+            sh.sebastianhudak@gmail.com
+          </a><br />
+
+          <strong>School:</strong>
+          <a href="mailto:sebastianhudak@tudelft.nl" style="color:#1a73e8; text-decoration:none;">
+            sebastianhudak@tudelft.nl
+          </a><br />
+
+          <strong>Phone:</strong>
+          <a href="tel:+31643490832" style="color:#1a73e8; text-decoration:none;">
+            +31 6 4349 0832
+          </a>
+        </mj-text>
+
+        <!-- <mj-divider border-color="#000000" /> -->
+        <!-- Social Icons -->
+
+        <mj-social icon-size="25px" mode="horizontal" align="left" inner-padding="0">
+          <mj-social-element href="https://www.linkedin.com/in/sebastian-hudak" background-color="transparent" padding-right="10px" src="https://raw.githubusercontent.com/Sebastian-Hudak/Emails/refs/heads/main/Linkedin_circle_black-512.png" />
+
+          <mj-social-element href="https://github.com/Sebastian-Hudak" background-color="transparent" padding-right="10px" src="https://raw.githubusercontent.com/Sebastian-Hudak/Emails/refs/heads/main/github-logo-6532.png" />
+
+          <mj-social-element href="https://wa.me/31643490832" background-color="transparent" src="https://raw.githubusercontent.com/Sebastian-Hudak/Emails/refs/heads/main/whatsapp-2174.png" />
+        </mj-social>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
